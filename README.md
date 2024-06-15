@@ -14,7 +14,7 @@ This repository contains a visualisation tool for the Banker's Algorithm. The Ba
 3. Follow the instructions provided in the repository to use the visualisation tool.
 
 ## Requirements
-This project doesn't require any specific software or libraries to run as it is already deployed and can be accessed directly from the repository.
+This project doesn't require any specific software or libraries to run as it is already deployed and can be accessed directly from the repository and also by clicking this link https://vijayfencer.github.io/Banker-s-Algorithm-Visualisation/.
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before getting started.
