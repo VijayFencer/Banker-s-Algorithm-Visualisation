@@ -15,7 +15,7 @@ function reset(){
   document.getElementById('resourceC').value = '';
   document.body.style.backgroundColor = "#ffffff";
 }
-
+  
 function example(){
   sam = [[0,1,0],
         [2,0,0],
